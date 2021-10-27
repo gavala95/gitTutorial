@@ -1,10 +1,11 @@
 # Header
+import importFile
 
 method1()
 
 test1()
 
-#feature 2
-method2()
-
-test2()
+method2(strFileName):
+	get the importFile info
+	
+	return info
