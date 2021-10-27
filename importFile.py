@@ -2,4 +2,8 @@
 
 importFileMethod()
 
-return info
+	return info
+
+querySize()
+
+	return int
