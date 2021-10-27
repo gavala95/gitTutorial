@@ -9,3 +9,8 @@ method2(strFileName):
 	get the importFile info
 	
 	return info
+	
+method3(int)
+	confirm entry
+	
+	return int
