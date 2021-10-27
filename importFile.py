@@ -7,3 +7,7 @@ importFileMethod()
 querySize()
 
 	return int
+
+queryFileType()
+
+	return str
